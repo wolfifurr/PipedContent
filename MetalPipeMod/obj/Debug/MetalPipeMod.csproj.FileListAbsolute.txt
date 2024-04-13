@@ -1,0 +1,16 @@
+E:\MetalPipeMod\MetalPipeMod\obj\Debug\MetalPipeMod.csproj.AssemblyReference.cache
+E:\MetalPipeMod\MetalPipeMod\obj\Debug\MetalPipeMod.csproj.CoreCompileInputs.cache
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\MetalPipeMod.dll
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\MetalPipeMod.pdb
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\0Harmony.dll
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\Assembly-CSharp.dll
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\BepInEx.dll
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\BepInEx.Harmony.dll
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\UnityEngine.AudioModule.dll
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\UnityEngine.CoreModule.dll
+E:\MetalPipeMod\MetalPipeMod\bin\Debug\UnityEngine.dll
+E:\MetalPipeMod\MetalPipeMod\obj\Debug\MetalPip.5992C3B8.Up2Date
+E:\MetalPipeMod\MetalPipeMod\obj\Debug\MetalPipeMod.dll
+E:\MetalPipeMod\MetalPipeMod\obj\Debug\MetalPipeMod.pdb
