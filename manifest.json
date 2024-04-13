@@ -1,7 +1,7 @@
 {
     "name": "PipedContent",
-    "version_number": "1.0.1",
-    "website_url": "",
+    "version_number": "1.0.3",
+    "website_url": "https://github.com/wolfifurr/PipedContent",
     "description": "Very loud. It's your choice to use it.",
     "dependencies": []
 }
